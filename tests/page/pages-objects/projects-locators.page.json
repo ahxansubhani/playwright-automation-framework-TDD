@@ -1,0 +1,8 @@
+{
+  "locators": {
+    "myTasksTitle": {
+      "selector": "#my_tasks-title-text",
+      "description": "My Tasks title"
+    }
+  }
+}

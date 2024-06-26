@@ -1,0 +1,22 @@
+{
+  "name": "playwright-framework",
+  "version": "1.0.0",
+  "description": "Playwright framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "regression-tests": "npx playwright test -g \"@regression\" "
+  },
+  "author": "Muhammad Ahsan Subhani https://github.com/ahxansubhani",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.0",
+    "@types/node": "^20.14.8"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.5.2",
+    "casual": "^1.6.2",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security"
+  }
+}

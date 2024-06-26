@@ -1,0 +1,24 @@
+{
+  "locators": {
+    "loginContainer": {
+      "selector": ".login__container-content",
+      "description": "Login container"
+    },
+    "inputEmailAddress": {
+      "selector": "input[placeholder='Email Address']",
+      "description": "Input email address"
+    },
+    "inputPassword": {
+      "selector": "input[placeholder='Password']",
+      "description": "Input password"
+    },
+    "keepMeLoggedIn": {
+      "selector": "input[name='KeepIn']",
+      "description": "Checkbox keep me logged in"
+    },
+    "buttonSubmit": {
+      "selector": "button[type='submit']",
+      "description": "Button submit"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "testCase": "L-0001-HR-admin-login",
+  "testSummary": "Verify 'HR Admin' can login",
+  "testDescription": "Validate the 'HR Admin' user can login and redirected to Projects App",
+  "tags": "@regression @Smoke",
+  "loginPage": {
+    "username": "aaatest@mailinator.com",
+    "password": "P@ssword123"
+  },
+  "projectsPage": {
+    "titlePage": "My Tasks"
+  }
+}
+ 
