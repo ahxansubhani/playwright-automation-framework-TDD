@@ -55,7 +55,7 @@ You must have [Visual Studio Code](https://code.visualstudio.com/download) insta
 2. Open gitbash and paste the following command
 
 ```bash
-git clone https://github.com/Diegocortes15/playwright-automation-framework-saucedemo.git
+git clone https://github.com/Diegocortes15/playwright-automation-framework-TDD.git
 ```
 
 ## Running project
